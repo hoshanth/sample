@@ -1,5 +1,4 @@
 # ComputerGraphic_Project
-Sure, here's a README file for your GitHub repository based on the provided C and OpenGL code.
 
 Railway Station Simulation
 A simple OpenGL project simulating a railway station environment with interactive elements like day/night cycles, a moving train, traffic lights, and animated objects like a plane and comet.
